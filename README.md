@@ -7,3 +7,5 @@ This repository demonstrates the working of Simon Game.
 
 https://github.com/itskrutinewalkar/The-Simon-Game/assets/82303924/592bd373-b267-48fa-a78e-c0978161f252
 
+Try it out for yourself!
+• Fork and clone the repository on your system and run the index.html file in your browser. 
